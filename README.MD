@@ -5,8 +5,6 @@
 
 Favorite Tech: JavaScript, React, Typescript, Python ... :sparkles: <br/>
 
-I’m currently working on [AIturing](https://www.aituring.co/) 🔭 
-
 I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 
