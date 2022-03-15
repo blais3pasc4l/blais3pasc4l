@@ -3,6 +3,8 @@
 <h2 align="center">Hi 👋, I'm Juan Calderon</h2>
 <h4 align="center">A passionate FullStack developer</h4>
 
+:sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
+
 I’m currently working on [AIturing](https://www.aituring.co/) 🔭 
 
 I’m currently learning **New technologies** 🔥
