@@ -14,10 +14,10 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
     <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif"/>
 </a>
 <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif" max-width="100" />
+    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif"/>
 </a>
     <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif" width="height=128" />
+    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif" width="height=10" />
 </a>
 
 <div>
