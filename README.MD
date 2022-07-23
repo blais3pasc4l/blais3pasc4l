@@ -15,8 +15,8 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
   </a>
 <div>
 
+```yaml
 version: 1.0
-
 code:
   - name: PHP
     version: [ 5, 7, 8 ]
@@ -24,7 +24,7 @@ code:
   - name: SQL
     tools: [ "MySQL", "PostgreSQL" ]
   - name: Javascript
-    tools: [ "React.js", "Vue.js", "Node.js"]
+    tools: [ "Vue.js", "Node.js"]
   - name: HTML
     version: 5
   - name: CSS
@@ -38,3 +38,6 @@ links:
   linkedin: "https://www.linkedin.com/in/bvelastegui"
   twitter: "https://twitter.com/shinigamicorei7"
   wakatime: "https://wakatime.com/@bvelastegui"
+```
+
+![](https://hit.yhype.me/github/profile?user_id=16880910)
