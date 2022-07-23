@@ -34,11 +34,10 @@ code:
     tools: [ "GoLand" ]
   - name: DevOps
     tools: [ "Docker", "Kubernetes", "Github Actions", "Jenkins" ]
-  - name: CloudProviders
+  - name: Cloud Providers
     tools: [ "AWS", "GCP", "DigitalOcean" ]
   - name: Others
-    tools: [ "Sass", "Less", "Webpack", "Vite" ]
+    tools: [ "SRE", "Mobile App Developtmen", "Web3", "Software Architecture" ]
 links:
   linkedin: "https://www.linkedin.com/in/juan-calderon-pe%C3%B1a-40342420a/"
-
 ```
