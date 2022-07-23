@@ -9,11 +9,7 @@ Favorite Tech: JavaScript, React, Typescript, Python, Flutter... :sparkles: <br/
 I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
-<div align="center">
-  <a href="https://github.com/blais3pasc4l">
-    <img alt="hacker" src="https://c.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif" width="228"/>
-  </a>
-<div>
+
 
 ```yaml
 version: 1.0
