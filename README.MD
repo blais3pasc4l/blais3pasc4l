@@ -11,7 +11,7 @@ I’m currently learning **New technologies** 🔥
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 <div align="center">
 <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/main/hacker-pc.gif" width="height=128" />
+    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/main/hacker-pc.gif" width="height=128" />
 </a>
 
 
