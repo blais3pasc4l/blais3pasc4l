@@ -12,14 +12,7 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 
 <div align="center">
 <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/blais3pasc4l/blais3pasc4l/raw/master/flame-1.gif" width="height=128" />
-  </a>
-  <a <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="[https://github.com/blais3pasc4l/blais3pasc4l/raw/master/flame-1.gif](https://raw.githubusercontent.com/blais3pasc4l/blais3pasc4l/main/flame-1.gif)" width="height=128" />
-  </a>href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="[https://github.com/blais3pasc4l/blais3pasc4l/raw/master/flame-1.gif](https://raw.githubusercontent.com/blais3pasc4l/blais3pasc4l/main/flame-1.gif)" width="height=128" />
-  </a>
-  <a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="[https://github.com/blais3pasc4l/blais3pasc4l/raw/master/flame-1.gif](https://raw.githubusercontent.com/blais3pasc4l/blais3pasc4l/main/flame-1.gif)" width="height=128" />
-  </a>
+    <img alt="flame" src="[https://github.com/blais3pasc4l/blais3pasc4l/raw/master/flame-1.gif](https://github.com/blais3pasc4l/blais3pasc4l/blob/main/flame-1.gif?raw=true)" width="height=128" />
+
 </div>
+   
