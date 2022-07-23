@@ -15,3 +15,26 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
   </a>
 <div>
 
+version: 1.0
+
+code:
+  - name: PHP
+    version: [ 5, 7, 8 ]
+    tools: [ "Laravel", "Symfony", "Phalcon", "Nette" ]
+  - name: SQL
+    tools: [ "MySQL", "PostgreSQL" ]
+  - name: Javascript
+    tools: [ "React.js", "Vue.js", "Node.js"]
+  - name: HTML
+    version: 5
+  - name: CSS
+    version: 3
+    tools: [ "Bootstrap", "Tailwind" ]
+  - name: DevOps
+    tools: [ "Docker", "Kubernetes", "Github Actions" ]
+  - name: Others
+    tools: [ "Sass", "Less", "Webpack", "Vite" ]
+links:
+  linkedin: "https://www.linkedin.com/in/bvelastegui"
+  twitter: "https://twitter.com/shinigamicorei7"
+  wakatime: "https://wakatime.com/@bvelastegui"
