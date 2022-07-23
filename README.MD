@@ -13,12 +13,7 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 <a href="https://github.com/blais3pasc4l">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/main/hacker-pc.gif" width="height=128" />
 </a>
-<a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/hacker-pc.gif" width="height=128" />
-</a>
-<a href="https://github.com/blais3pasc4l">
-    <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/hacker-pc.gif" width="height=128" />
-</a>
+
 
 <div>
 
