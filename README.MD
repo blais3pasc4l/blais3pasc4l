@@ -9,7 +9,7 @@ Favorite Tech: JavaScript, React, Typescript, Python, Flutter... :sparkles: <br/
 I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
-
+<div align="center">
 <a href="https://github.com/blais3pasc4l">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
 </a>
@@ -20,3 +20,5 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
 </a>
 
+<div>
+    
