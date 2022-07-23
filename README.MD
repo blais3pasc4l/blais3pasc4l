@@ -29,7 +29,7 @@ code:
   - name: Javascript 
     tools: [ "React.js", "Node.js"]
   - name: Python
-    tools: [ "Django", "FastAPI", "Flast" ]  
+    tools: [ "Django", "FastAPI", "Flask" ]  
   - name: Go
     tools: [ "GoLand" ]
   - name: DevOps
