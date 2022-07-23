@@ -10,8 +10,8 @@ I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 <div aling="center">
-<a align="center" href="https://github.com/blais3pasc4l">
-    <img align="center" alt="hacker" src="https://c.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif" width="228"/>
+<a href="https://github.com/blais3pasc4l">
+    <img alt="hacker" src="https://c.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif" width="228"/>
 </a>  
 <div>
 
