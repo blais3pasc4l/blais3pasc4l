@@ -26,7 +26,7 @@ code:
     tools: [ "MySQL", "PostgreSQL" ]
   - name: NoSQL
     tools: [ "MongoDB" ]
-  - name: Javascript
+  - name: Javascript 
     tools: [ "React.js", "Node.js"]
   - name: Python
     tools: [ "Django", "FastAPI", "Flast" ]  
