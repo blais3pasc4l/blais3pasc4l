@@ -27,24 +27,24 @@ version: 1.0
 code:
   - name: PHP
     version: [ 5, 7, 8 ]
-    tools: [ "Laravel", "Symfony", "Phalcon", "Nette" ]
+    tools: [ "Laravel", "Symfony" ]
   - name: SQL
     tools: [ "MySQL", "PostgreSQL" ]
+  - name: NoSQL
+    tools: [ "MongoDB" ]
   - name: Javascript
-    tools: [ "Vue.js", "Node.js"]
-  - name: HTML
-    version: 5
-  - name: CSS
-    version: 3
-    tools: [ "Bootstrap", "Tailwind" ]
+    tools: [ "React.js", "Node.js"]
+  - name: Python
+    tools: [ "Django", "FastAPI", "Flast" ]  
+  - name: Go
+    tools: [ "GoLand" ]
   - name: DevOps
-    tools: [ "Docker", "Kubernetes", "Github Actions" ]
+    tools: [ "Docker", "Kubernetes", "Github Actions", "Jenkins" ]
+  - name: CloudProviders
+    tools: [ "AWS", "GCP", "DigitalOcean" ]
   - name: Others
     tools: [ "Sass", "Less", "Webpack", "Vite" ]
 links:
-  linkedin: "https://www.linkedin.com/in/bvelastegui"
-  twitter: "https://twitter.com/shinigamicorei7"
-  wakatime: "https://wakatime.com/@bvelastegui"
-```
+  linkedin: "https://www.linkedin.com/in/juan-calderon-pe%C3%B1a-40342420a/"
 
-![](https://hit.yhype.me/github/profile?user_id=16880910)
+```
