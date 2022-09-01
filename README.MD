@@ -40,5 +40,5 @@ code:
     tools: [ "Mobile Developtmen", "Web3", "Software Architecture" ]
 links:
   linkedin: "https://www.linkedin.com/in/juan-calderon-pe%C3%B1a-40342420a/"
-  My gitlab profile: "https://gitlab.com/blais3pasc4l"
+  gitlab profile: "https://gitlab.com/blais3pasc4l"
 ```
