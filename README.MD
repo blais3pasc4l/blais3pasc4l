@@ -10,15 +10,6 @@ I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Text Animation</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
     <div class="container">
       <span style="--l: '¡H';">¡H</span>
       <span style="--l: 'e';">e</span>
@@ -26,8 +17,7 @@ How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
       <span style="--l: 'l';">l</span>
       <span style="--l: '0!';">o!</span>
     </div>
-  </body>
-</html>
+
 
 <div align="center">
 <a href="https://github.com/blais3pasc4l">
