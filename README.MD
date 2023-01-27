@@ -10,13 +10,6 @@ I’m currently learning **New technologies** 🔥
 
 How to reach me **juandavidcalderonpena@gmail.com** 📫 -->
 
-    <div class="container">
-      <span style="--l: '¡H';">¡H</span>
-      <span style="--l: 'e';">e</span>
-      <span style="--l: 'l';">l</span>
-      <span style="--l: 'l';">l</span>
-      <span style="--l: '0!';">o!</span>
-    </div>
 
 
 <div align="center">
