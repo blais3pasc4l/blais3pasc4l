@@ -38,7 +38,7 @@ code:
   - name: DevOps
     tools: [ "Docker", "Kubernetes", "Github Actions", "Jenkins" ]
   - name: Cloud Providers
-    tools: [ "AWS", "GCP", "Digital Ocean" ]
+    tools: [ "AWS", "GCP", "Azure", "Digital Ocean" ]
   - name: Others
     tools: [ "Mobile Developtmen", "Web3", "Software Architecture" ]
 links:
